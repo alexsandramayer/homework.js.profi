@@ -1,0 +1,23 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.label{
+    display: flex;
+    gap: 10px;
+}
+.text_feedback{
+    width: 300px;
+
+}
+.feedback_btn{
+    width: 200px;
+    height: 30px;
+}
+
+.nav{
+    margin-bottom: 30px;
+    display: flex;
+    gap: 30px;
+}
